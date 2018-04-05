@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522888006665.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1052886902",
+    "id" : "F740E284",
+    "lastKnownWriteTime" : 1522898090,
+    "last_content_update" : 1522898090112,
+    "path" : "~/Documents/SpatioTemporal/HW4/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "cursorPosition" : "92,0",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
